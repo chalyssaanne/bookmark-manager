@@ -8,6 +8,9 @@ This code is for the Bookmark Manager Project for Week 6 at Makers Academy.
 As a user
 I want to be able to see a list of bookmarks.
 
+As a user
+I want to be able to add my bookmarks to the Bookmark Manager.
+
 ```
 
 ## Domain Model
